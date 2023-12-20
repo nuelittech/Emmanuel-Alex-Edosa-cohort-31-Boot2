@@ -1,0 +1,29 @@
+.fa-brands{
+
+    font-size: 10px;
+    padding: 7px;
+    border-radius: 30px;
+    margin: 10px;
+    }
+    
+    .fa-solid{
+    
+        font-size: 20px;
+        padding: 7px;
+        border-radius: 30px;
+        margin: 10px;
+    }
+    
+    .card-img-top{
+    
+    margin-top: -16px;
+    margin-left: 1px !important;
+    box-shadow: 4px 3px 3px 2px gray;
+    
+    }
+    
+    .flexed{
+    gap: 20px;
+    
+    }
+    
